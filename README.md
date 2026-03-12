@@ -1,3 +1,6 @@
+# public archive
+
+does not work anymore.
 
 # XGP Trial Redeemer
 Selenium XGPC trial redeemer, had XAG support. More info in readme.
